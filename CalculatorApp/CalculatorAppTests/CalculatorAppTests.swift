@@ -1,17 +1,10 @@
-# CalculatorApp
-> Aplicativo para desenvolvimento Swift/iOS
+//
+//  CalculatorAppTests.swift
+//  CalculatorAppTests
+//
+//  Created by Henrique Alves Batochi on 29/09/22.
+//
 
-## Resumo - XCTest
-
-Biblioteca do Swift para realizar testes unitários.
-
-### Resumo - Projeto
-
-Aplicativo contendo apenas uma classe - Calculator - com uma função de soma e outra de subtração. Realizado os testes unitários dessas funções para conhecimento do funcionamento da biblioteca XCTest.
-
-### Código da rotina de Teste
-
-```swift
 import XCTest
 @testable import CalculatorApp
 
@@ -44,4 +37,3 @@ class CalculatorAppTests: XCTestCase {
     }
 
 }
-```
