@@ -13,6 +13,7 @@ Aplicativo contendo apenas uma classe - Calculator - com uma função de soma e 
 
 ```swift
 import XCTest
+// Importa o target do projeto, contendo todas as classes
 @testable import CalculatorApp
 
 class CalculatorAppTests: XCTestCase {
